@@ -1,4 +1,10 @@
 # markdown-just-markdown
+# Теперь очередь ссылок
+http://ru.science.wikia.com/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F
+[Астрономия](http://ru.science.wikia.com/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F)
+[Protocol buffers](Астрономия)
+[Астрономия]: http://ru.science.wikia.com/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F
+
 # Цветной код
 ``` C
 for(i=0;i<n;i++)
